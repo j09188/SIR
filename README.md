@@ -14,3 +14,9 @@ There are five parts in this project:
 >Difference variants: We use lockdown model to estimate the infection rate between two variants in "South_Africa.ipynb".
 >
 >Integrations: We use "mask + quarantine + vaccine" model fit the spread of Covid-19 in Taiwan in "Taiwan.ipynb".
+
+***
+Contributers
+>@ghdftff542
+>
+>@j09188
